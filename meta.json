@@ -1,0 +1,23 @@
+{
+  "repo": "protools-suite-2026",
+  "product": "ProTools Suite 2026",
+  "kind": "audio",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "audio-production",
+  "topics": [
+    "protools-suite",
+    "protools-windows",
+    "audio-production-desktop",
+    "how-to-install-protools",
+    "protools-suite-desktop-package",
+    "protools-workspace",
+    "protools-2026",
+    "protools-suite-pro-tools",
+    "protools-suite",
+    "zentool-protools"
+  ],
+  "site": "zentool.art"
+}
